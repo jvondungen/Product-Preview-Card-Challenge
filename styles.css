@@ -108,12 +108,13 @@ justify-content: center;}
 
 img{ 
     height:100%;
-    width:50%;
+    width:300px;
+    border-radius: 10px 0 0 10px;
 }
 
 .content{flex:display;
 flex-direction: column;
-width:100%;
+width:300px;
 padding-top: 30px;
 }
 p{padding-right:20px;}
